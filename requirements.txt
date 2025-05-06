@@ -1,0 +1,4 @@
+smolagents
+google-search-results
+python-dotenv
+requests

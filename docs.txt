@@ -1,0 +1,5 @@
+# GoogleFlightsTool
+https://serpapi.com/google-flights-api
+https://serpapi.com/integrations/python
+https://huggingface.co/docs/smolagents/en/tutorials/tools
+https://github.com/huggingface/smolagents/blob/main/src/smolagents/tools.py
